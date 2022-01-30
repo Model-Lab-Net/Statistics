@@ -1,2 +1,2 @@
-# TelHai
+# Stattistics Cource
 Hello
