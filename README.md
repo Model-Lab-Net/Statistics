@@ -1,2 +1,2 @@
-# Stattistics Cource
+# Statistics Cource קורס סטטיסטיקה
 Hello
