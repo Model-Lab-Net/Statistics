@@ -1,2 +1,3 @@
 # Statistics Cource קורס סטטיסטיקה
-Hello
+Online statisical analysis package - statistica (dot) cc
+
